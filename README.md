@@ -1,5 +1,5 @@
 ﻿#A Motorola MC68000 Microprocessor disassembler that diassembles itself
-![Preview](schooley.github.com/Disassembler/preview.png)
+![Preview](https://raw.github.com/schooley/Disassembler/master/preview.png)
 ##Contributors
 * Nguyen Tong:
  * Testing, I/O design
